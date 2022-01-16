@@ -16,7 +16,7 @@
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> <strong>I'm a Full Stack Developer.</strong></li>
 <li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> <strong>I enjoy building web applications ,learning algorithms and math.</strong></li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> <strong>Ask me about C++, React JS, JavaScript, Node.js, ServiceNow.</strong></li>
-<li><g-emoji class="g-emoji" alias="chess_pawn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/265f.png">♟️</g-emoji> <strong>Outside work, I like to play chess, drive &amp; spend time with family.</strong></li>
+<li><g-emoji class="g-emoji" alias="chess_pawn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/265f.png">♟️</g-emoji> <strong>Outside work, I like to play cricket, travel &amp; spend time with family.</strong></li>
 <li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> <strong>Wanna know more about me: <a href="https://drive.google.com/file/d/1imD7v_c5HAjpxYkRHkYgO9GiF0Jy8v_F/view?usp=sharing" rel="nofollow">Resume</a></strong></li>
 </ul>
 
