@@ -15,7 +15,7 @@
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> <strong>I'm a Full Stack Developer.</strong></li>
 <li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> <strong>I enjoy building web applications ,learning algorithms and math.</strong></li>
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> <strong>Ask me about C++, React JS, JavaScript, Node.js, ServiceNow.</strong></li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> <strong>Ask me about C++, React JS, JavaScript, ServiceNow.</strong></li>
 <li><g-emoji class="g-emoji" alias="chess_pawn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/265f.png">♟️</g-emoji> <strong>Outside work, I like to play cricket, travel &amp; spend time with family.</strong></li>
 <li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> <strong>Wanna know more about me: <a href="https://drive.google.com/file/d/1pHGPuvpzAdZqbpivfhl_PW4iek2uKZ6g/view?usp=sharing" rel="nofollow">Resume</a></strong></li>
 </ul>
@@ -27,7 +27,7 @@
   <span class="pl-c1">challenge</span>: <span class="pl-s">"I am doing the #30DaysOfCode challenge focused on React"</span>
 <span class="pl-kos">}</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="let arpit = {
-  code: [&quot;Javascript&quot;, &quot;React JS&quot;, &quot;HTML&quot;, &quot;CSS&quot;, &quot;Node.js&quot;, &quot;C++&quot;],
+  code: [&quot;Javascript&quot;, &quot;React JS&quot;, &quot;HTML&quot;, &quot;CSS&quot;, &quot;C++&quot;],
   tools: [&quot;React&quot;, &quot;Redux&quot;, &quot;Node&quot;, &quot;Styled-Components&quot;],
   databases: [&quot;SQL&quot;],
   challenge: &quot;I am doing the #30DaysOfCode challenge focused on React&quot;
